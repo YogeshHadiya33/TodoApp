@@ -1,2 +1,2 @@
 # TodoApp
-This Todo app is in react native.
+Todos is an react native project which create using react native and expo.
